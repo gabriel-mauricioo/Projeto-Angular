@@ -1,0 +1,32 @@
+h1{
+    font-size: 2.2rem;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 3rem;
+}
+ul{
+    list-style: none;
+    margin: 1.2rem;
+}
+li{
+    margin-top: 2rem;
+}
+
+span{
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    max-width: 50rem;
+    font-size: 1.1rem;
+    
+}
+
+img{
+    margin-top: 0.3rem;
+    width: 30rem;
+    height: 20rem;
+    border-radius: 0.5rem;
+}
